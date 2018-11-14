@@ -212,7 +212,7 @@ var dCount = 0
   <div id="header"></div>
     <div id="navigation">
   	<ul>
-      <li><a href="/zulham">home</a></li>
+      <li><a href="https://zulhamweb.herokuapp.com/">home</a></li>
       <li><a href="#">teks</a>
       	<ul>
           <li><a href="?page=kompresiteks">Kompresi Data</a></li>
@@ -360,7 +360,7 @@ var dCount = 0
   
     <div id="footer">
       <p>Muhammad Nuzulul Ilham - All Rights Reserved</p>
-      <p>Teknik Telekomunikasi Sarjana Terapan Semester 5 - Politeknik Negeri Sriwijaya</p>
+      <p>Politeknik Negeri Sriwijaya</p>
   	</div>
     
 </div>
