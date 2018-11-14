@@ -40,9 +40,11 @@
   <center>
     <strong>Contoh Animasi Multimedia dengan Format .swf</strong>
   </center>
-    <iframe width="420" height="315"
-    src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1">
-    </iframe>     
+  <center>
+     <em>
+     <embed src="media/cats.mp4" width="535" height="262" autoplay="true"></embed>
+     </em> 
+  </center>
  <center>
    <strong>Contoh Video Multimedia dengan Format .mkv</strong>
  </center>
