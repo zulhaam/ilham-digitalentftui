@@ -40,9 +40,9 @@
   <center>
     <strong>Contoh Animasi Multimedia dengan Format .swf</strong>
   </center>
-    <iframe width="532" height="262"
-      src="https://www.youtube.com/watch?v=1ClbiB7_YYg">
-    </iframe>      
+    <iframe width="420" height="315"
+    src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1">
+    </iframe>     
  <center>
    <strong>Contoh Video Multimedia dengan Format .mkv</strong>
  </center>
