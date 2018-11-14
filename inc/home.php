@@ -21,7 +21,7 @@
   <p align="justify"><em>
    <center>
      <em>
-     <embed src="media/deargod.mp3" width="326" height="39" autoplay="false"></embed>
+     <embed src="media/32.GATE OF STEINER.mp3" width="326" height="39" autoplay="false"></embed>
      </em>
    </center>
    </em>
@@ -40,7 +40,7 @@
     <strong>Contoh Animasi Multimedia dengan Format .swf</strong>
   </center>
     <center>
-      <embed src="media/Photoshop.mp4" width="532" height="262" autoplay="false"></embed>
+      <embed src="https://www.youtube.com/watch?v=1ClbiB7_YYg" width="532" height="262" autoplay="false"></embed>
     </center>
  <center>
    <strong>Contoh Video Multimedia dengan Format .mkv</strong>
