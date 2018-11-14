@@ -20,9 +20,10 @@
   <p align="justify"><em>3. Suara  Elemen bunyi-bunyian (musik, efek suara) untuk memperjelas informasi   yang diberikan. Bisa juga dengan menggunakan secara terpisah untuk   memperjelas elemen media lainnya. </em></p>
   <p align="justify"><em>
    <center>
-     <em>
-     <embed src="media/32.GATE OF STEINER.mp3" width="326" height="39" autoplay="true"></embed>
-     </em>
+     <audio controls>
+        <source src="media/32.GATE OF STEINER.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+</audio>
    </center>
    </em>
     <center>
